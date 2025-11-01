@@ -1,8 +1,8 @@
 
 # EX NO: 1 Cloud-account-set-up-and-services
 
-## Name : GOKUL M
-## Reg no: 212222230037
+## Name : SURYA R
+## Reg no: 212224040339
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.

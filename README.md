@@ -79,8 +79,8 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # Services Overview:
 • Explore all the available services in AWS platform.
 # Output:
+<img width="977" height="515" alt="image" src="https://github.com/user-attachments/assets/f46c89aa-f130-48ab-9ba1-f12fcb23963e" />
 
-![image](https://github.com/user-attachments/assets/54122f2f-f156-4b78-9b07-730a343f511d)
 
 ![image](https://github.com/user-attachments/assets/6151762a-f261-4c40-adbe-37a6b38cd2d0)
 
